@@ -1,5 +1,5 @@
 import './App.css';
-import Container from './components/Container';
+import Container from './components/Container/Container';
 import { VoteProvider } from './context/VoteContext';
 
 function App() {
